@@ -5,7 +5,7 @@ A browser-based memory game built with vanilla JavaScript, HTML, and CSS. The ga
  https://pal-b7.github.io/Simon-Says/
 
 ## Screenshots
-![Simon Says Game](screenshot.png)
+![Simon Says Game](Screenshot.png)
 
 ## Features
 - Classic Simon Says gameplay — a randomly generated color sequence grows by one step each level
@@ -54,6 +54,7 @@ Simon-Says/
 ├── index.html
 ├── style.css
 ├── app.js
+├── Screenshot.png
 └── README.md
 ```
 
