@@ -2,7 +2,7 @@
 A browser-based memory game built with vanilla JavaScript, HTML, and CSS. The game generates a growing sequence of colors that the player must repeat correctly to advance levels.
 
 ## Live Demo
- https://pal-b7.github.io/Simon-Says/
+https://wonderful-puffpuff-6ec13c.netlify.app/
 
 ## Screenshots
 ![Simon Says Game](Screenshot.png)
